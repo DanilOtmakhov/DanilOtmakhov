@@ -6,6 +6,7 @@
 - [**MovieQuiz**](https://github.com/DanilOtmakhov/MovieQuiz) - iOS app with quizzes about movies from the IMDb Top 250. 
 - [**ImageFeed**](https://github.com/DanilOtmakhov/ImageFeed) - iOS app for viewing images via the Unsplash API. 
 - [**Tracker**](https://github.com/DanilOtmakhov/Tracker) — iOS app for building and tracking habits with schedules, stats, and reminders.
+- [**FakeNFT**](https://github.com/IceRedline/FakeNFT) — a mock NFT store iOS app with fake API data (*team project*).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanilOtmakhov&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
 
