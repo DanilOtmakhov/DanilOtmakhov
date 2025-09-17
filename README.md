@@ -2,6 +2,11 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
+### Projects
+- [**MovieQuiz**](https://github.com/DanilOtmakhov/MovieQuiz) - iOS app with quizzes about movies from the IMDb Top 250. 
+- [**ImageFeed**](https://github.com/DanilOtmakhov/ImageFeed) - iOS app for viewing images via the Unsplash API. 
+- [**Tracker**](https://github.com/DanilOtmakhov/Tracker) — iOS app for building and tracking habits with schedules, stats, and reminders.
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanilOtmakhov&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
 
 ### Contact Me
