@@ -9,7 +9,6 @@
 - [**FakeNFT**](https://github.com/IceRedline/FakeNFT) — a mock NFT store iOS app with fake API data (*team project*).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanilOtmakhov&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
-![Danil's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DanilOtmakhov&theme=react-dark)
 
 ### Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DanilOtmakhov)
